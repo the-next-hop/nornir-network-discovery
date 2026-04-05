@@ -1,0 +1,8 @@
+Value INTERFACE (\S+)
+Value STATUS (\S+)
+Value PROTOCOL (\S+)
+Value DESCRIPTION (.*)
+
+Start
+  ^Interface\s+Status\s+Protocol\s+Description -> Start
+  ^${INTERFACE}\s+${STATUS}\s+${PROTOCOL}\s*${DESCRIPTION} -> Record
