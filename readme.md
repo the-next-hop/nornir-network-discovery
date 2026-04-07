@@ -12,7 +12,7 @@ A practical, no-fluff series that takes you from querying your first network dev
 |------|---------|--------|
 | 1 | [Getting Started — Your First Nornir Script](https://the-next-hop.co.uk/part-1-from-zero-to-querying-network-devices/) | `part1_main.py` |
 | 2 | [Parsing Real Data with TextFSM](https://the-next-hop.co.uk/part-2-parsing-real-data-with-textfsm/) | `part2_main.py` |
-| 3 | Coming soon | (https://the-next-hop.co.uk/part-3-from-parsed-data-to-reports-and-backups-with-nornir/)|
+| 3 | [From Parsed Data to Reports and Backups with Nornir](https://the-next-hop.co.uk/part-3-from-parsed-data-to-reports-and-backups-with-nornir/)| `part3_main.py` |
 
 ---
 
