@@ -2,7 +2,3 @@
 cisco_ios:
   platform: cisco_ios
 
-aruba_os:
-  platform: aruba_aoscx
-  username: admin
-  password: nornir
