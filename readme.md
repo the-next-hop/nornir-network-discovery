@@ -2,7 +2,7 @@
 
 Companion code for the **Nornir Network Discovery** series on [The Next Hop](https://the-next-hop.co.uk).
 
-A practical, no-fluff series that takes you from querying your first network device with Nornir, all the way to building a multi-function network discovery tool that gathers interface data, device versions, and CDP neighbours — with a topology diagram to follow in part 3.
+A practical, no-fluff series that takes you from querying your first network device with Nornir, all the way to building a multi-function network discovery tool that gathers interface data, device versions, and CDP neighbours.
 
 ---
 
