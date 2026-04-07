@@ -1,4 +1,4 @@
 device_name,software_image,version,uptime
-odin,C7200-ADVENTERPRISEK9-M,15.2(4)S6,"1 hour, 20 minutes"
-thor,C7200-ADVENTERPRISEK9-M,15.2(4)S6,"1 hour, 20 minutes"
-loki,C7200-ADVENTERPRISEK9-M,15.2(4)S6,"1 hour, 20 minutes"
+odin,C7200-ADVENTERPRISEK9-M,15.2(4)S6,"2 hours, 6 minutes"
+thor,C7200-ADVENTERPRISEK9-M,15.2(4)S6,"2 hours, 6 minutes"
+loki,C7200-ADVENTERPRISEK9-M,15.2(4)S6,"2 hours, 6 minutes"
