@@ -93,6 +93,7 @@ Each script is self-contained and can be run independently:
 ```bash
 python part1_main.py
 python part2_main.py
+python part3_main.py
 ```
 
 ---
