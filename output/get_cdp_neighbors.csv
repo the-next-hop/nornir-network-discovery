@@ -1,0 +1,7 @@
+device_name,local_interface,remote_interface,neighbor_hostname,neighbor_ip
+odin,FastEthernet0/0,,Thor.the-next-hop.co.uk,192.168.1.22
+odin,FastEthernet0/0,,Loki.the-next-hop.co.uk,192.168.1.23
+thor,FastEthernet0/0,,Odin.the-next-hop,192.168.1.21
+thor,FastEthernet0/0,,Loki.the-next-hop.co.uk,192.168.1.23
+loki,FastEthernet0/0,,Odin.the-next-hop,192.168.1.21
+loki,FastEthernet0/0,,Thor.the-next-hop.co.uk,192.168.1.22

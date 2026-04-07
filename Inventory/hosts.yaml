@@ -4,15 +4,19 @@ odin:
   groups:
     - cisco_ios
 
+
 thor:
   hostname: 192.168.1.22
   groups:
     - cisco_ios
 
+
 loki:
   hostname: 192.168.1.23
   groups:
     - cisco_ios 
+
+
 
 
 

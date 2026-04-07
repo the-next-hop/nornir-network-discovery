@@ -1,0 +1,20 @@
+device_name,interface,status,protocol,description
+odin,Fa0/0,up,up,
+odin,Et1/0,up,up,
+odin,Et1/1,admin,down,down     
+odin,Et1/2,admin,down,down     
+odin,Et1/3,admin,down,down     
+odin,Fa2/0,admin,down,down     
+thor,Fa0/0,up,up,
+thor,Et1/0,up,up,
+thor,Et1/1,admin,down,down     
+thor,Et1/2,admin,down,down     
+thor,Et1/3,admin,down,down     
+thor,Fa2/0,admin,down,down     
+thor,Lo0,up,up,"Allfather, ruler of Asgard"
+loki,Fa0/0,up,up,
+loki,Et1/0,up,up,
+loki,Et1/1,admin,down,down     
+loki,Et1/2,admin,down,down     
+loki,Et1/3,admin,down,down     
+loki,Lo0,up,up,"""God of mischief"""
