@@ -3,20 +3,28 @@ odin:
   hostname: 192.168.1.21
   groups:
     - cisco_ios
-
+  data:
+    snmp:
+      - location: "Made up street 10, New York City"
+        community: "communi1tyStr1nGabc" 
 
 thor:
   hostname: 192.168.1.22
   groups:
     - cisco_ios
-
-
+  data:
+    snmp:
+      - location: "Made up street 20, Los Angeles"
+        community: "communi1tyStr1nGdef" 
+      
 loki:
   hostname: 192.168.1.23
   groups:
     - cisco_ios 
-
-
+  data:
+    snmp:
+      - location: "Made up street 30, San Francisco"
+        community: "communi1tyStr1nGghl" 
 
 
 

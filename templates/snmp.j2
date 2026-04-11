@@ -1,0 +1,5 @@
+
+{% for snmp in host.data.snmp %}
+    snmp-server location {{ snmp.location }}
+    snmp-server community {{ snmp.community }}
+{% endfor %}
